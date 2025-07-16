@@ -5,6 +5,6 @@ mountpoints:
     suffix: ".html"
 
   /blog:
-    url: "https://drive.google.com/drive/folders/1MGzOt7ubUh3gu7zhZIPb7R7dyRzG371j"
+    url: "https://drive.google.com/drive/folders/1ID9BzxfcHgD2xtxfLbR9vSSZ4f1RzCLR"
     type: "markup"
     suffix: ".html"
